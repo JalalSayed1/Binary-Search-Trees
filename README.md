@@ -3,4 +3,3 @@
 - Lab 4 in Algorithms & Data Structure course in Level 2. Based on lectures 13-14.
 - Implementation of BST data structure and some of its variants.
 
-## What did I learn from it:
